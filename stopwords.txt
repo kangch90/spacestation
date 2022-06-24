@@ -999,3 +999,8 @@ yourself
 yourselves
 z
 zero
+book
+author
+reading
+read
+kindle
